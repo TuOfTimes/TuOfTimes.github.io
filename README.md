@@ -17,15 +17,15 @@ I've tried making a website once before but I prioritized design over function a
 - SCSS, HTML, JS
 
 ## Components of a Blog 
-### High Priority
+#### High Priority
 - content
 - clean navigation (ideally not paginated)
 - about
-- 
-### Medium Priority
+- responsive
+#### Medium Priority
 - logo
 - content tags
-### Low Priority
+#### Low Priority
 - search
 
 ## Content Ideas
@@ -33,4 +33,8 @@ I've tried making a website once before but I prioritized design over function a
 - Ultimate Frisbee
 - Cooking
 - Technology Opinions
+- Travel
+- Photography?
+- Music?
+- DIY
 - Other thoughts, etc.
