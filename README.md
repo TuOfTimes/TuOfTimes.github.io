@@ -1,9 +1,9 @@
 # Edward's Minimal Blog Site
 
-## Objective
+### Objective
 I've tried making a website once before but I prioritized design over function and it never got used. This time around I want to build a site that is clean and functional.
 
-## Inspirations
+### Inspirations
 - https://perrera.com
   - understate design, not cluttered
   - simple animations that add to the experience
@@ -12,11 +12,11 @@ I've tried making a website once before but I prioritized design over function a
   - cooler animations, more colorful
   - more tech-focused content
 
-## Technologies
+### Technologies
 - Jekyll
 - SCSS, HTML, JS
 
-## Components of a Blog 
+### Components of a Blog 
 #### High Priority
 - content
 - clean navigation (ideally not paginated)
@@ -28,7 +28,7 @@ I've tried making a website once before but I prioritized design over function a
 #### Low Priority
 - search
 
-## Content Ideas
+### Content Ideas
 - College, and What I Would Change if I Could do it Again
 - Ultimate Frisbee
 - Cooking
@@ -38,3 +38,10 @@ I've tried making a website once before but I prioritized design over function a
 - Music?
 - DIY
 - Other thoughts, etc.
+
+## To Do:
+- [ ] finalize website design
+- [ ] write .sass code
+- [ ] figure out how to us SVG icons
+- [ ] come up with a title
+- [ ] create a new icon
