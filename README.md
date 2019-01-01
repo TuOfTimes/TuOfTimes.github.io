@@ -37,11 +37,13 @@ I've tried making a website once before but I prioritized design over function a
 - Photography?
 - Music?
 - DIY
+- Tech Reviews
 - Other thoughts, etc.
 
 ## To Do:
-- [ ] finalize website design
-- [ ] write .sass code
-- [ ] figure out how to us SVG icons
-- [ ] come up with a title
-- [ ] create a new icon
+- [x] finalize website design
+- [x] write .sass code
+- [x] come up with a title
+- [x] import icon
+- [ ] write more blog posts
+- [ ] work on JS animations

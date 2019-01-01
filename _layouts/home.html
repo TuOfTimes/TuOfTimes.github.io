@@ -11,25 +11,26 @@
     <title>{{ site.title }}</title>
 </head>
 <body>
+    <main>
     <!-- top bar with title and info button -->
     {% include header.html %}
 
     <!-- list of blog posts -->
-    <main>
-        {% for post in site.posts %}
-        <a href="{{ post.url }}" class="post">
-            <div class="post-link">
-                <div class="fixed">
-                    <span class="small">{{ post.date | date: "%-d %b %Y" }}</span>
-                    <h1>{{ post.title }}</h1>
-                    <span class="excerpt">{{ post.excerpt }}</span>
+    <div class="container">
+        <div class="posts">
+            {% for post in site.posts %}
+            <a href="{{ post.url }}" class="post">
+                <div class="post-link">
+                        <span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>
+                        <span class="post-title">{{ post.title }}</span>
                 </div>
-            </div>
-        </a>
-        {% endfor %}
-    </main>
-    
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+
     <!-- bottom line with social media links and stylized name -->
     {% include footer.html %}
+    </main>
 </body>
 </html>

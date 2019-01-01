@@ -11,16 +11,15 @@
     <title>{{ page.title }}</title>
 </head>
 <body>
+    <main>
     <!-- top bar with title and info button -->
     {% include header.html %}
-
-    <!-- list of blog posts -->
-    <main>
-        {{ content }}
-    </main>
-    
+        <div class="container">
+            {{ content }}
+        </div>
     <!-- bottom line with social media links and stylized name -->
     {% include footer.html %}
+    </main>
 </body>
 </html>
 <!-- same as post (header and footer) but page content is different -->

@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! My name is Edward Tu.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am currently a student at McGill University in Montreal studying Computer Science and Biology, and I plan on becoming a Software Engineer after I graduate.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This website is meant to be a means for me to explore my interests, practice my writing, and play around with simple web development tools. I will mostly be writing about food, ultimate frisbee, travel, and other miscellaneous topics that may come into my mind.
