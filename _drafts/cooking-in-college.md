@@ -6,7 +6,7 @@ categories: school
 excerpt: ""
 ---
 
-after my first year of school i moved into off-campus housing. aside from the location, the biggest change was getting accustomed to not having a meal plan. 
+After my first year of school i moved into off-campus housing. aside from the location, the biggest change was getting accustomed to not having a meal plan. 
 
 i live with three excellent roommates and the general agreement is that one (or two) of us cook(s) dinner for the entire house, and the other members of the house clean up afterwards. 
 
