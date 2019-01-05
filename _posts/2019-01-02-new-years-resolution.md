@@ -19,4 +19,4 @@ In the next year I hope to write about:
 - reflections
 - anything else that I can think of
 
-These post are not written with an audience in mind, but feel free to reach out and share if you enjoy the content. See you in a week!
+These post are not written with an audience in mind, but feel free to reach out or share if you enjoy the content. See you in a week!
