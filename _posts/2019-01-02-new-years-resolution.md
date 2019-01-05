@@ -7,13 +7,14 @@ categories: life
 
 Disclaimer: I don't belive in New Years resolutions. If you feel you need to make changes to your lifestyle, you shouldn't wait until the New Year to do so.
 
-That being said, I waited until the New Year to take on creating and maintining a blog because I'd been swamped with classwork and internship applications all semester. My primary goal is to write short pieces to practice verbalizing my thoughts. In the past I've always put off this project because I was too embarassed to post any of the entries I'd written. This time around, I want to do write in way that doesn't make my friends cringe when they accidentally stumble upon this blog.
+That being said, I waited until the New Year to take on creating and maintining a blog because I'd been swamped with classwork and internship applications all semester. My primary goal is to write short pieces to practice verbalizing my thoughts. In the past I've always put off this project because I was too embarassed to post any of the entries I'd written. This time around, I want to write in way that doesn't make my friends cringe when they accidentally stumble upon this blog.
 
 In the next year I hope to write about:
 - my experiences and adventures
+- food
 - cooking tips
 - ultimate frisbee
-- technology reviews
+- product reviews
 - coding projects
 - reflections
 - anything else that I can think of
