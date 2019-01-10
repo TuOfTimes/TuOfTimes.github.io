@@ -41,9 +41,12 @@ I've tried making a website once before but I prioritized design over function a
 - Other thoughts, etc.
 
 ## To Do:
+### Ongoing
+- [ ] write more blog posts
+### Tasks
 - [x] finalize website design
 - [x] write .sass code
 - [x] come up with a title
 - [x] import icon
-- [ ] write more blog posts
+- [x] fix multi-line blog links
 - [ ] work on JS animations

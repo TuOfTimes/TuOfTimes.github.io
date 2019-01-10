@@ -20,10 +20,8 @@
         <div class="posts">
             {% for post in site.posts %}
             <a href="{{ post.url }}" class="post">
-                <div class="post-link">
-                        <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
-                        <span class="post-title">{{ post.title }}</span>
-                </div>
+                <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
+                <span class="post-title">{{ post.title }}</span>
             </a>
             {% endfor %}
         </div>
