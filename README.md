@@ -14,7 +14,7 @@ I've tried making a website once before but I prioritized design over function a
 
 ### Technologies
 - Jekyll
-- SCSS, HTML, JS
+- SCSS, HTML
 
 ### Components of a Blog 
 #### High Priority
@@ -49,4 +49,3 @@ I've tried making a website once before but I prioritized design over function a
 - [x] come up with a title
 - [x] import icon
 - [x] fix multi-line blog links
-- [ ] work on JS animations

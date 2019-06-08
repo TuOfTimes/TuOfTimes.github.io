@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "College: What I Would Change if I Could Do It Again"
-date:   2018-12-22 12:50:15 -0500
+title: "College: What I Would Change if I Could Do It Again"
+date:  
 categories: school
 ---
 
@@ -25,3 +25,4 @@ but, in the path that i took, i was able to keep my options open and explore car
 - my major
 - my activities
 - social events
+- conclusion: college is a time of discovery and self reflection, and these are the things that I've learned about myself in my time at school. if you're in a similar position, i ask that you take my experiences with a grain of salt. i hope you can find hope or inspiration in them, but the only true way to learn your lesson is to experience it for yourself

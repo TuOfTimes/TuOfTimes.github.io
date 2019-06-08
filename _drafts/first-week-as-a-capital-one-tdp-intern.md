@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Impressions: Capital One TDP Intern"
+title: "First Week as a Capital One TDP Intern"
 date:
 categories: work
 ---
