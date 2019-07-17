@@ -3,32 +3,32 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     {% include stylesheets.html %}
     <title>{{ site.title }}</title>
-</head>
-<body>
+  </head>
+  <body>
     <main>
-    <!-- top bar with title and info button -->
-    {% include header.html %}
+      <!-- top bar with title and info button -->
+      {% include header.html %}
 
-    <!-- list of blog posts -->
-    <div class="container">
+      <!-- list of blog posts -->
+      <div class="container">
         <div class="posts">
-            {% for post in site.posts %}
-            <a href="{{ post.url }}" class="post">
-                <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
-                <span class="post-title">{{ post.title }}</span>
-            </a>
-            {% endfor %}
+          {% for post in site.posts %}
+          <a href="{{ post.url }}" class="post">
+            <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
+            <span class="post-title">{{ post.title }}</span>
+          </a>
+          {% endfor %}
         </div>
-    </div>
+      </div>
 
-    <!-- bottom line with social media links and stylized name -->
-    {% include footer.html %}
+      <!-- bottom line with social media links and stylized name -->
+      {% include footer.html %}
     </main>
-</body>
+  </body>
 </html>

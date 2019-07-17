@@ -3,23 +3,23 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     {% include stylesheets.html %}
     <title>{{ page.title }}</title>
-</head>
-<body>
+  </head>
+  <body>
     <main>
-    <!-- top bar with title and info button -->
-    {% include header.html %}
-        <div class="container">
-            {{ content }}
-        </div>
-    <!-- bottom line with social media links and stylized name -->
-    {% include footer.html %}
+      <!-- top bar with title and info button -->
+      {% include header.html %}
+      <div class="container">
+        {{ content }}
+      </div>
+      <!-- bottom line with social media links and stylized name -->
+      {% include footer.html %}
     </main>
-</body>
+  </body>
 </html>
 <!-- same as post (header and footer) but page content is different -->

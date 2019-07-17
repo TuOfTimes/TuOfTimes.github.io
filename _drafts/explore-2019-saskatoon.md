@@ -5,7 +5,7 @@ date:
 categories: experience
 ---
 
-Between the end of my third year at McGill and the beginning of my internship at Capital One, I spent four weeks studying French in the great city of Saskatoon. Nicknamed the "Paris of the Prairies", Saskatoon is a quaint city located on the Saskatchewan that in no way resembles Paris. Even so, I found the city to be incredibly welcoming, diverse, and absolutely beautiful.
+Between the end of my third year at McGill and the beginning of my internship at Capital One, I spent four weeks studying French in the great city of Saskatoon. Nicknamed the "Paris of the Prairies", Saskatoon is a quaint city located on the Saskatchewan that in no way resembles Paris. Even so, I found the city to be incredibly welcoming, diverse, and breathtaking.
 
 diversity:
 before arriving in the city, my McGill friends had all made fun of me for choosing saskatoon. for them, Saskatoon represented an isolated city in the middle of the country that was boring and white af. in reality, however, the city has an enormous and diverse population that has given it a multinational identity. you can find vietnamese restaurants, italian bakeries, and your standard multinational american businesses peacefully coexisting...
