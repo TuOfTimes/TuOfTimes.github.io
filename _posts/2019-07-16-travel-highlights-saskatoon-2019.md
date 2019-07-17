@@ -25,5 +25,5 @@ This is my favorite picture from the entire trip. The long summer days in Saskat
 
 ![Airport Sunrise]({{ "/assets/img/saskatoon-airport-sunrise.jpg" | absolute_url }}){:class="post-image"}
 
-My first, last, and only sunrise in Saskatoon. I took this picture at 5 am as I was getting ready to leave for Richmond, VA. Thinking back, Saskatoon is a relatively unknown city that I would have never thought to visit. But after seeing it for myself, I would recommend it to everyon.
+My first, last, and only sunrise in Saskatoon. I took this picture at 5 am as I was getting ready to leave for Richmond, VA. Thinking back, Saskatoon is a relatively unknown city that I would have never thought to visit. But after seeing it for myself, I would recommend it to everyone.
 
