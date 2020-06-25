@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Explore 2019: I Froze My Ass Off in Banff"
-date: 
+title: "Travel Highlights: Banff 2019"
+date:
 categories: travel
 ---
+
